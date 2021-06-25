@@ -7,6 +7,7 @@ In order to run the program you can run the following command:
 ```
 java -jar Nomura-Test-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
+*NOTE: The jar file is available in the target folder*
 
 After the game starts, the user specifies rolls for each frame. At the end of each frame we print out the roll information and the score upto the frame. 
 
